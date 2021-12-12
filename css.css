@@ -1,0 +1,40 @@
+body{
+	background-image:url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg2.niutuku.com%2Fdesk%2F1208%2F1427%2Fntk-1427-2347.jpg&refer=http%3A%2F%2Fimg2.niutuku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1641884667&t=bf9ce103c0add2d6af0e5f304aa7657b");
+	background-size:cover;
+}
+div{
+	position: relative;
+}
+img{
+	height: 100px;
+	width: 100px;
+
+	display:block;
+	margin: auto;
+
+	border-radius: 50%;
+}
+
+p{
+	text-align: center;
+	font-size: 20px;
+}
+#container{
+	background-color: white;
+	height: 500px;
+	opacity: 60%;
+	width: 500px;
+	margin: auto;
+	top: 100px;
+
+	border-radius: 20px;
+
+}
+#title p{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "宋体"；
+}
+#title:hover{
+	color: #2b5cb4;
+}
